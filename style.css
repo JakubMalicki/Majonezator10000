@@ -26,6 +26,7 @@ a {
  nav li {
      padding: 8px;
      margin-left: 8px;
+     margin-up: 8px;
      background-color: darkslateblue;
      color: #ffffff;
      border-radius: 3px;
